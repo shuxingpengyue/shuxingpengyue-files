@@ -6,7 +6,7 @@
 
 | 关键词 | 资料 | 下载链接 |
 |--------|------|---------|
-| **高一期末** | 必修一必修二期末复习纲要 | [下载](https://raw.githubusercontent.com/shuxingpengyue/shuxingpengyue-files/master/b1b2-final-review-outline.pdf) |
+| **高一期末** | 必修一必修二期末复习纲要 | [下载](https://github.com/shuxingpengyue/shuxingpengyue-files/releases/download/gaokao-final-2025/b1b2-review-outline.pdf) |
 | **高一期末** | 浙江省9市高一期末真题汇编 | [下载](https://github.com/shuxingpengyue/shuxingpengyue-files/releases/download/gaokao-final-2025/zhejiang-gaoyi-math-final-exams.zip) |
 | **平面向量** | 平面向量全章知识总结 | [下载](https://raw.githubusercontent.com/shuxingpengyue/shuxingpengyue-files/master/plane-vector-summary.pdf) |
 | **向量** | 向量易错点（第1讲） | [下载](https://raw.githubusercontent.com/shuxingpengyue/shuxingpengyue-files/master/vector-01.pdf) |
@@ -21,7 +21,7 @@
   📚 高一期末复习资料：
 
   ① 必修一必修二期末复习纲要（4页全考点双栏速查）：
-  https://raw.githubusercontent.com/shuxingpengyue/shuxingpengyue-files/master/b1b2-final-review-outline.pdf
+  https://github.com/shuxingpengyue/shuxingpengyue-files/releases/download/gaokao-final-2025/b1b2-review-outline.pdf
 
   ② 浙江省9市高一期末真题汇编（杭州/宁波/温州/绍兴/嘉兴/湖州/台州/丽水/衢州）：
   https://github.com/shuxingpengyue/shuxingpengyue-files/releases/download/gaokao-final-2025/zhejiang-gaoyi-math-final-exams.zip
